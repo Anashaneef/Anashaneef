@@ -1,6 +1,6 @@
 # Halo semua! 
 Perkenalkan nama saya **Anas Fikri Hanif**.\
-Saya seorang **Mahasiswa** di [Universitas Amikom Yogyakarta](https://home.amikom.ac.id/).\
+Saya seorang **Mahasiswa** di [Universitas Amikom Yogyakarta](https://home.amikom.ac.id/).
  
 <p align="left">
 <a href="https://github.com/gilangadhan">

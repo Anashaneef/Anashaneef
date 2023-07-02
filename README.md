@@ -1,7 +1,7 @@
 # Hi There! 
 I'm **Anas Fikri Hanif**.\
 I'm currently studying at [University of Amikom Yogyakarta](https://home.amikom.ac.id/), Indonesia.\
-I'm interested in discussions about **machine learning** and **data science**
+I'm interested in discussions about **machine learning**, **data science**, and **blockchain**
  
 <p align="left">
 <a href="https://github.com/gilangadhan">
